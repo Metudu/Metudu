@@ -1,4 +1,4 @@
-discordapp.com/users/yourID## Hey there!
+## Hey there!
 
 ### I'm Tarık and welcome to my GitHub profile 👋
 
