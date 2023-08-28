@@ -13,10 +13,6 @@
     <img src="assets/linkedin.png" width="40px" height="40px">
 </a>
 &nbsp;
-<a href="https://www.instagram.com/metudu_">
-    <img src="assets/instagram.png" width="40px" height="40px">
-</a>
-&nbsp;
 <a href="https://www.discordapp.com/users/317911445507407874">
     <img src="assets/discord.png" width="40px" height="40px">
 </a>
