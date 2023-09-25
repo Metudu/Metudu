@@ -4,7 +4,7 @@
 
 - I'm a computer science student at Marmara University, Turkey 🏫
 - I love Golang 🚀 and Python 🐍️
-- I'm learning AWS ☁
+- I'm learning AWS ☁ and Terraform🍀
 - I have 3 foundational level Azure certificates️️️ ☁ ️
 
 ### You are just one click away from me!
