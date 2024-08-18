@@ -7,11 +7,11 @@
 
 ## Certificates
 
-<img src="https://cdn.simpleicons.org/kubernetes" width="20" height="20"> **KCNA: Kubernetes and Cloud Native Associate** : [ View the certificate ](https://www.credly.com/badges/45dcd426-6256-4c93-bb78-e18060daa0d5/public_url)
+<img src="https://cdn.simpleicons.org/kubernetes" width="20" height="20" align="center"> **KCNA: Kubernetes and Cloud Native Associate** : [ View the certificate ](https://www.credly.com/badges/45dcd426-6256-4c93-bb78-e18060daa0d5/public_url)
 <br/>
-<img src="https://cdn.simpleicons.org/terraform" width="20" height="20"> **Hashicorp Certified: Terraform Associate** : [ View the certificate ](https://www.credly.com/badges/ebe1f2d0-9e59-4cb9-b34a-65785541439e/public_url)
+<img src="https://cdn.simpleicons.org/terraform" width="20" height="20" align="center"> **Hashicorp Certified: Terraform Associate** : [ View the certificate ](https://www.credly.com/badges/ebe1f2d0-9e59-4cb9-b34a-65785541439e/public_url)
 <br/>
-<img src="https://cdn.simpleicons.org/googlecloud" width="20" height="20"> **Google Cloud Certified: Associate Cloud Engineer** : [ View the certificate ](https://google.accredible.com/00badec2-25f5-432d-8404-0b1a947d8f96#gs.dt15gg)
+<img src="https://cdn.simpleicons.org/googlecloud" width="20" height="20" align="center"> **Google Cloud Certified: Associate Cloud Engineer** : [ View the certificate ](https://google.accredible.com/00badec2-25f5-432d-8404-0b1a947d8f96#gs.dt15gg)
 
 ## Connect with me
 
