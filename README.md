@@ -6,9 +6,8 @@
 - IaC and CI/CD enjoyer
 
 ## Certificates
-<div style="text-align: center">
-    <img src="https://cdn.simpleicons.org/kubernetes" width="30" height="30"> **KCNA: Kubernetes and Cloud Native Associate** : [ View the certificate ](https://www.credly.com/badges/45dcd426-6256-4c93-bb78-e18060daa0d5/public_url)
-</div>
+<div style="text-align: center"><img src="https://cdn.simpleicons.org/kubernetes" width="30" height="30"></div> **KCNA: Kubernetes and Cloud Native Associate** : [ View the certificate ](https://www.credly.com/badges/45dcd426-6256-4c93-bb78-e18060daa0d5/public_url)
+
 <br/>
 <div style="text-align: center">
 <img src="https://cdn.simpleicons.org/terraform" width="30" height="30"> **Hashicorp Certified: Terraform Associate** : [ View the certificate ](https://www.credly.com/badges/ebe1f2d0-9e59-4cb9-b34a-65785541439e/public_url)
