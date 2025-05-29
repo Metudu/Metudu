@@ -10,9 +10,9 @@
 </a>
 &nbsp;
 <a href="https://www.instagram.com/metudu_" target="_blank">
-    <img src="https://cdn.simpleicons.org/instagram" width="50" height="50">
+    <img src="./assets/instagram.png" width="50" height="50">
 </a>
 &nbsp;
 <a href="https://www.discordapp.com/users/317911445507407874" target="_blank">
-    <img src="https://cdn.simpleicons.org/discord" width="50" height="50">
+    <img src="./assets/discord.png" width="50" height="50">
 </a>
